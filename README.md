@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **JavaScript, Java, PHP, AWS Solutions Architect**
+- 🌱 I’m currently learning **JavaScript, Java, AWS**
 
 - 📫 How to reach me **nguyentruongthanh0612@gmail.com**
 
