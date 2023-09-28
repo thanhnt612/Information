@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh+Nguyen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh+Nguyen)]()
 
 <h3>A self-taught and passionate full stack developer</h3>
 
@@ -11,7 +11,7 @@
 
 - 📝 Visit to [My Portfolio](https://thanhisdev.netlify.app/).
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-spKk5J82KWfMYxG6e5qax-p0qH_o2m_/view?usp=drive_link).
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11ohXCuyl87QYs3oGH0jeeir5xImGMTYG/view?usp=sharing).
 - ⚡ Fun fact:
   I am a Coffeeholic ☕️, I do not think there is anything wrong with that. Coffee ☕️ is a delicious and enjoyable beverage that can be part of a healthy lifestyle. So, if you are a coffeeholic like me, do not be afraid to embrace it.
   
@@ -29,8 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,postman,redis,vscode,idea,netlify,aws,bash"/>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,postman,redis,vscode,idea,java,netlify,aws,bash"/>
   </a>
 </p>
 
