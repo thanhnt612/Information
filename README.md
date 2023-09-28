@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thanh Nguyen</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh+Nguyen)](https://git.io/typing-svg)
 
-<h3 align="center">A self-taught and passionate full stack developer</h3>
+<h3>A self-taught and passionate full stack developer</h3>
 
 
 ---
@@ -19,76 +19,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thanhnt612/" target="blank">
-  <img width="50" height="50" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin"/>
+   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="https://www.instagram.com/thanh.nt612/" target="blank">
-  <img width="50" height="50" src="https://img.icons8.com/fluency/50/instagram-new.png" alt="instagram-new"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-   <img width="50" height="50" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/>
-  </a> 
 
-  <a href="https://https://www.postgresql.org//" target="_blank" rel="noreferrer"> 
-    <img width="50" height="50" src="https://img.icons8.com/color/50/postgreesql.png" alt="postgreesql"/>
-  </a> 
-  <a href="https://www.mongodb.com//" target="_blank" rel="noreferrer"> 
-    <img width="50" height="50" src="https://img.icons8.com/color/50/mongodb.png" alt="mongodb"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="55" height="55"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img width="50" height="50" src="https://img.icons8.com/nolan/40/amazon-web-services.png" alt="amazon-web-services"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img width="50" height="50" src="https://img.icons8.com/color/50/intellij-idea.png" alt="intellij-idea"/>
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,postman,redis,vscode,idea,netlify,aws,bash"/>
   </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> 
-   <img width="50" height="50" src="https://img.icons8.com/fluency/50/sublime-text.png" alt="sublime-text"/>
-  </a>
-  
 </p>
-
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnt612&show_icons=true&locale=en&layout=compact" alt="viperfangs" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnt612&" alt="viperfangs" /></p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=thanhnt612&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
