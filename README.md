@@ -2,9 +2,12 @@
 
 <br><br>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh+Nguyen)]()
 
-<h3>A self-taught and passionate web developer</h3>  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;
+<h3>A self-taught and passionate web developer</h3>  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="300px">
+
 
 
 ---
@@ -34,7 +37,7 @@
 
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,postman,redis,vscode,netlify,aws,bash"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,laravel,mongodb,postgres,mysql,postman,redis,vscode,netlify,aws,bash"/>
   </a>
 </p>
 
