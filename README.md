@@ -10,7 +10,7 @@
 
 - 📝 Visit to [My Portfolio](https://thanhisdev.netlify.app/).
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12WwTdK_IXNvM-fwK5awMRJips5McwRte/view?usp=sharing).
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wMLL4AQTSMTo4_40CK9OWI2g5dO5s-60/view?usp=sharing).
 - ⚡ Fun fact:
   I am a Coffeeholic ☕️, I do not think there is anything wrong with that. Coffee ☕️ is a delicious and enjoyable beverage that can be part of a healthy lifestyle. So, if you are a coffeeholic like me, do not be afraid to embrace it.
   
@@ -20,16 +20,13 @@
 <a href="https://www.linkedin.com/in/thanhnt612/" target="blank">
    <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://www.instagram.com/thanh.nt612/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,laravel,mongodb,postgres,mysql,postman,redis,vscode,netlify,aws,bash"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,postman,redis,vscode,netlify,aws,bash"/>
   </a>
 </p>
 
